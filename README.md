@@ -19,3 +19,9 @@ docker build -t productpage .
 docker run -d --name productpage -p 8083:8083 productpage
 ```
 * Test with path `/`
+
+## How to run with Docker Compose
+
+```bash
+docker-compose up
+```
