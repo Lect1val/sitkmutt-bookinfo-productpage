@@ -1,0 +1,11 @@
+apiVersion: v1
+description: Bookinfo ProductPage Service Helm Chart
+name: bookinfo-productpage
+version: 1.0.0
+appVersion: 1.0.0
+home: http://sitkmutt.bookinfo.dev.opsta.net/student45/productpage
+maintainers:
+  - name: student45
+    email: thannakorn.lectival@mail.kmutt.ac.th
+sources:
+  - https://github.com/lect1val/sitkmutt-bookinfo-productpage
